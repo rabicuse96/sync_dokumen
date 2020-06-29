@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sync_dokumen *.css
+recursive-include sync_dokumen *.csv
+recursive-include sync_dokumen *.html
+recursive-include sync_dokumen *.ico
+recursive-include sync_dokumen *.js
+recursive-include sync_dokumen *.json
+recursive-include sync_dokumen *.md
+recursive-include sync_dokumen *.png
+recursive-include sync_dokumen *.py
+recursive-include sync_dokumen *.svg
+recursive-include sync_dokumen *.txt
+recursive-exclude sync_dokumen *.pyc
