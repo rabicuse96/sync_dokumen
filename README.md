@@ -1,6 +1,6 @@
 ## Sync Dokumen
 
-Sync Dokumen
+Sync Dokumen Purchase Order to Sales Order
 
 #### License
 
